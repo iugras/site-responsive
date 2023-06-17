@@ -32,7 +32,7 @@ img {
 
 .header {
     position: relative;
-    /* Определяем модель flex-box для блока .header */
+    /* flex-box for .header */
     display: flex;
     flex-direction: column; /* Выстраиваем flex-элементы в колонку, основная ось - Y */
     justify-content: center; /* Выравнивание по основной оси */
